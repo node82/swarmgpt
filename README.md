@@ -69,7 +69,7 @@ Cloud providers use `threading.Semaphore` so agents queue gracefully — you'll 
 **1. Clone and install dependencies**
 
 ```bash
-git clone https://github.com/yourname/swarmgpt
+git clone https://github.com/node82/swarmgpt
 cd swarmgpt
 pip install requests rich numpy python-dotenv openai anthropic
 ```
